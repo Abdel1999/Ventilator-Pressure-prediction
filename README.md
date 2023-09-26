@@ -9,4 +9,6 @@ In this competition, participants are given numerous time series of breaths and 
 <div align='center'><img width="488" alt="dataset_exp" src="https://github.com/Abdel1999/Ventlator_Pressure_prediction/assets/123161748/1240dd44-7261-44e3-8426-a330341ebe25">
 </div>
 
+Each time series represents an approximately 3-second breath. The files are organized such that each row is a time step in a breath and gives the two control signals, the resulting airway pressure, and relevant attributes of the lung, described below.
 
+*Dataset features :*
