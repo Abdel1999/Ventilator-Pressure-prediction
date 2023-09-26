@@ -6,4 +6,7 @@ The ventilator data used in this competition was produced using a modified open-
 
 In this competition, participants are given numerous time series of breaths and will learn to predict the airway pressure in the respiratory circuit during the breath, given the time series of control inputs.
 
-<img width="488" alt="dataset_exp" src="https://github.com/Abdel1999/Ventlator_Pressure_prediction/assets/123161748/1240dd44-7261-44e3-8426-a330341ebe25">
+<div align='center'><img width="488" alt="dataset_exp" src="https://github.com/Abdel1999/Ventlator_Pressure_prediction/assets/123161748/1240dd44-7261-44e3-8426-a330341ebe25">
+</div>
+
+
