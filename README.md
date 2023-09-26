@@ -37,20 +37,10 @@ Partnering with Princeton University, the team at Google Brain aims to grow the 
 **package installing :**
 
 ```bash
-!pip install pandas
-```
-```bash
-!pip install sklearn
-```
-```bash
-!pip install seaborn
-```
-```bash
-!pip install matplotlib
-```
-```bash
-!pip install numpy
-```
-```bash
-!pip install tensorflow
+pip install pandas
+pip install scikit-learn
+pip install seaborn
+pip install matplotlib
+pip install numpy
+pip install tensorflow
 ```
