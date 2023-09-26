@@ -39,6 +39,7 @@ pip install seaborn
 pip install matplotlib
 pip install numpy
 pip install tensorflow
+pip install os
 ```
 
 **Methodology :**
@@ -49,5 +50,9 @@ The aim of the project is to predict airway pressure using AI algorithms. To ach
 - Preprocessing the data to handle missing and infinite values.
 - Splitting the dataset into training, validation, and test sets (the validation set is used for model selection and hyperparameter tuning).
 - Comparing two different machine learning algorithms, namely Linear Regression and Artificial Neural Networks (ANN), to determine which one provides better predictions.
-- Evaluating the models using the Mean Absolute Error (MAE) evaluation metric with R squared in both used algorithms.
+- Evaluating the models using the Mean squared Error (MSE) evaluation and R squared metrics in both used algorithms.
 - Choosing ANN as the best algorithm for predicting pressure values in the test set.
+
+**Notice :**
+
+The ANN algorithm was adopted because of the ability to learn automatically more complex features instead of hand-crafting features that require more advanced manual feature engineering technics for a perfect optimization prediction.
