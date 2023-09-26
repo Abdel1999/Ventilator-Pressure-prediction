@@ -33,3 +33,24 @@ Partnering with Princeton University, the team at Google Brain aims to grow the 
 **Prerequisites :**
 - python/jupyter noyebook
 - pip 
+
+**package installing :**
+
+```bash
+!pip install pandas
+```
+```bash
+!pip install sklearn
+```
+```bash
+!pip install seaborn
+```
+```bash
+!pip install matplotlib
+```
+```bash
+!pip install numpy
+```
+```bash
+!pip install tensorflow
+```
