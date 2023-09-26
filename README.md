@@ -18,6 +18,8 @@ breath_id - globally-unique time step for breaths
 - u_out :the control input for the exploratory solenoid valve. Either 0 or 1.
 - pressure :the airway pressure measured in the respiratory circuit, measured in cmH2O.
 
+*Dataset link :* https://www.kaggle.com/competitions/ventilator-pressure-prediction/data
+
 **Project description :**
 
 What do doctors do when a patient has trouble breathing? They use a ventilator to pump oxygen into a sedated patient's lungs via a tube in the windpipe. But mechanical ventilation is a clinician-intensive procedure, a limitation that was prominently on display during the early days of the COVID-19 pandemic. At the same time, developing new methods for controlling mechanical ventilators is prohibitively expensive, even before reaching clinical trials. High-quality simulators could reduce this barrier.
