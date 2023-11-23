@@ -57,4 +57,4 @@ The aim of the project is to predict airway pressure using AI algorithms. To ach
 
 **Notice :**
 
-The ANN algorithm was adopted because of its ability to learn automatically more complex features instead of hand-crafting features that require more advanced manual feature engineering technics for a perfect optimization prediction.
+The ANN algorithm was adopted because of its ability to learn automatically more complex features instead of hand-crafting features that require more advanced manual feature engineering techniques for a perfect optimization prediction.
